@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Julio Cesar Corbaz</title>
-    <link>corbaz.github.io/goHugo/tags/</link>
+    <link>goHugo/tags/</link>
     <description>Recent content in Tags on Julio Cesar Corbaz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="corbaz.github.io/goHugo/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="goHugo/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>development</title>
-      <link>corbaz.github.io/goHugo/tags/development/</link>
+      <link>goHugo/tags/development/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>corbaz.github.io/goHugo/tags/development/</guid>
+      <guid>goHugo/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>corbaz.github.io/goHugo/tags/hugo/</link>
+      <link>goHugo/tags/hugo/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>corbaz.github.io/goHugo/tags/hugo/</guid>
+      <guid>goHugo/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>corbaz.github.io/goHugo/tags/themes/</link>
+      <link>goHugo/tags/themes/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>corbaz.github.io/goHugo/tags/themes/</guid>
+      <guid>goHugo/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>corbaz.github.io/goHugo/tags/go/</link>
+      <link>goHugo/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>corbaz.github.io/goHugo/tags/go/</guid>
+      <guid>goHugo/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>corbaz.github.io/goHugo/tags/golang/</link>
+      <link>goHugo/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>corbaz.github.io/goHugo/tags/golang/</guid>
+      <guid>goHugo/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>corbaz.github.io/goHugo/tags/templates/</link>
+      <link>goHugo/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>corbaz.github.io/goHugo/tags/templates/</guid>
+      <guid>goHugo/tags/templates/</guid>
       <description></description>
     </item>
     

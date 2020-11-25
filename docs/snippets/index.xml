@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snippets on Julio Cesar Corbaz</title>
-    <link>corbaz.github.io/goHugo/snippets/</link>
+    <link>goHugo/snippets/</link>
     <description>Recent content in Snippets on Julio Cesar Corbaz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="corbaz.github.io/goHugo/snippets/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="goHugo/snippets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First snippet</title>
-      <link>corbaz.github.io/goHugo/snippets/first/</link>
+      <link>goHugo/snippets/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>corbaz.github.io/goHugo/snippets/first/</guid>
+      <guid>goHugo/snippets/first/</guid>
       <description>This content is in snippets/first/index.md
 pwd </description>
     </item>
     
     <item>
       <title>Second snippet</title>
-      <link>corbaz.github.io/goHugo/snippets/second/</link>
+      <link>goHugo/snippets/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>corbaz.github.io/goHugo/snippets/second/</guid>
+      <guid>goHugo/snippets/second/</guid>
       <description>This content is in snippets/second/index.md
 ls -la </description>
     </item>

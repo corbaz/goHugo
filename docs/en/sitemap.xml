@@ -3,267 +3,267 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>corbaz.github.io/goHugo/series/hugo/</loc>
+    <loc>goHugo/series/hugo/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="corbaz.github.io/goHugo/pt-br/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="corbaz.github.io/goHugo/"
-                />
-  </url>
-  
-  <url>
-    <loc>corbaz.github.io/goHugo/posts/</loc>
+    <loc>goHugo/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="corbaz.github.io/goHugo/pt-br/posts/"
+                href="goHugo/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="corbaz.github.io/goHugo/posts/"
+                href="goHugo/"
                 />
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/series/</loc>
+    <loc>goHugo/posts/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="corbaz.github.io/goHugo/pt-br/series/"
+                href="goHugo/pt-br/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="corbaz.github.io/goHugo/series/"
+                href="goHugo/posts/"
                 />
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/series/theme/</loc>
+    <loc>goHugo/series/</loc>
+    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="goHugo/pt-br/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="goHugo/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>goHugo/series/theme/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/posts/twemoji-support/</loc>
+    <loc>goHugo/posts/twemoji-support/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/posts/render-latex-using-katex/</loc>
+    <loc>goHugo/posts/render-latex-using-katex/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/authors/</loc>
+    <loc>goHugo/authors/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="corbaz.github.io/goHugo/pt-br/authors/"
+                href="goHugo/pt-br/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="corbaz.github.io/goHugo/authors/"
+                href="goHugo/authors/"
                 />
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/categories/</loc>
+    <loc>goHugo/categories/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="corbaz.github.io/goHugo/pt-br/categories/"
+                href="goHugo/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="corbaz.github.io/goHugo/categories/"
+                href="goHugo/categories/"
                 />
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/categories/development/</loc>
+    <loc>goHugo/categories/development/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/tags/development/</loc>
+    <loc>goHugo/tags/development/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/authors/external-link-test/</loc>
+    <loc>goHugo/authors/external-link-test/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/tags/hugo/</loc>
+    <loc>goHugo/tags/hugo/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="corbaz.github.io/goHugo/pt-br/tags/hugo/"
+                href="goHugo/pt-br/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="corbaz.github.io/goHugo/tags/hugo/"
+                href="goHugo/tags/hugo/"
                 />
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/posts/hugo-coder-wiki/</loc>
+    <loc>goHugo/posts/hugo-coder-wiki/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/tags/</loc>
+    <loc>goHugo/tags/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="corbaz.github.io/goHugo/pt-br/tags/"
+                href="goHugo/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="corbaz.github.io/goHugo/tags/"
+                href="goHugo/tags/"
                 />
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/tags/themes/</loc>
+    <loc>goHugo/tags/themes/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/authors/jane-smith/</loc>
+    <loc>goHugo/authors/jane-smith/</loc>
     <lastmod>2017-01-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/authors/john-doe/</loc>
+    <loc>goHugo/authors/john-doe/</loc>
     <lastmod>2017-01-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/posts/theme-demo/</loc>
+    <loc>goHugo/posts/theme-demo/</loc>
     <lastmod>2017-01-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/posts/creating-a-new-theme/</loc>
+    <loc>goHugo/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/posts/hugo-template-primer/</loc>
+    <loc>goHugo/posts/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/series/getting-started/</loc>
+    <loc>goHugo/series/getting-started/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/posts/hugoisforlovers/</loc>
+    <loc>goHugo/posts/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/tags/go/</loc>
+    <loc>goHugo/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/tags/golang/</loc>
+    <loc>goHugo/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/categories/golang/</loc>
+    <loc>goHugo/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/tags/templates/</loc>
+    <loc>goHugo/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/posts/migrate-from-jekyll/</loc>
+    <loc>goHugo/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/about/</loc>
+    <loc>goHugo/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="corbaz.github.io/goHugo/pt-br/about/"
+                href="goHugo/pt-br/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="corbaz.github.io/goHugo/about/"
+                href="goHugo/about/"
                 />
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/contact/</loc>
+    <loc>goHugo/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="corbaz.github.io/goHugo/pt-br/contact/"
+                href="goHugo/pt-br/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="corbaz.github.io/goHugo/contact/"
+                href="goHugo/contact/"
                 />
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/snippets/first/</loc>
+    <loc>goHugo/snippets/first/</loc>
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/projects/</loc>
+    <loc>goHugo/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="corbaz.github.io/goHugo/pt-br/projects/"
+                href="goHugo/pt-br/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="corbaz.github.io/goHugo/projects/"
+                href="goHugo/projects/"
                 />
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/snippets/second/</loc>
+    <loc>goHugo/snippets/second/</loc>
   </url>
   
   <url>
-    <loc>corbaz.github.io/goHugo/snippets/</loc>
+    <loc>goHugo/snippets/</loc>
   </url>
   
 </urlset>
