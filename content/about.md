@@ -29,9 +29,9 @@ Have questions or suggestions? Feel free to [open an issue on GitHub](https://gi
 
 <center>
 
-![tile](images/jcc.jpg 'Julio Cesar Corbaz')
+![tile](../images/jcc.jpg 'Julio Cesar Corbaz')
 
-<img src="images/avatar.jpg" alt="">
+<img src="../images/avatar.jpg" alt="">
 
 </center>
 
