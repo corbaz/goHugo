@@ -1,5 +1,5 @@
 publishDir = "docs"
-baseURL = ""
+baseURL = "corbaz.github.io/goHugo/"
 title = "Julio Cesar Corbaz"
 
 theme = "hugo-coder"
