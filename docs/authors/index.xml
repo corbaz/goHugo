@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Julio Cesar Corbaz</title>
-    <link>goHugo/authors/</link>
+    <link>https://corbaz.github.io/HugoPage/authors/</link>
     <description>Recent content in Authors on Julio Cesar Corbaz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="goHugo/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://corbaz.github.io/HugoPage/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>External link test</title>
-      <link>goHugo/authors/external-link-test/</link>
+      <link>https://corbaz.github.io/HugoPage/authors/external-link-test/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>goHugo/authors/external-link-test/</guid>
+      <guid>https://corbaz.github.io/HugoPage/authors/external-link-test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jane Smith</title>
-      <link>goHugo/authors/jane-smith/</link>
+      <link>https://corbaz.github.io/HugoPage/authors/jane-smith/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>goHugo/authors/jane-smith/</guid>
+      <guid>https://corbaz.github.io/HugoPage/authors/jane-smith/</guid>
       <description></description>
     </item>
     
     <item>
       <title>John Doe</title>
-      <link>goHugo/authors/john-doe/</link>
+      <link>https://corbaz.github.io/HugoPage/authors/john-doe/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>goHugo/authors/john-doe/</guid>
+      <guid>https://corbaz.github.io/HugoPage/authors/john-doe/</guid>
       <description></description>
     </item>
     

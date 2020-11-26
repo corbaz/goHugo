@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Julio Cesar Corbaz</title>
-    <link>goHugo/pt-br/authors/</link>
+    <link>https://corbaz.github.io/HugoPage/pt-br/authors/</link>
     <description>Recent content in Authors on Julio Cesar Corbaz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="goHugo/pt-br/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://corbaz.github.io/HugoPage/pt-br/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Translation test</title>
-      <link>goHugo/pt-br/authors/translation-test/</link>
+      <link>https://corbaz.github.io/HugoPage/pt-br/authors/translation-test/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>goHugo/pt-br/authors/translation-test/</guid>
+      <guid>https://corbaz.github.io/HugoPage/pt-br/authors/translation-test/</guid>
       <description></description>
     </item>
     

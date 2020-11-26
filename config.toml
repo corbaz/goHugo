@@ -1,5 +1,5 @@
 publishDir = "docs"
-baseURL = "goHugo/"
+baseURL = "https://corbaz.github.io/HugoPage/"
 title = "Julio Cesar Corbaz"
 
 theme = "hugo-coder"
@@ -20,8 +20,8 @@ disqusShortname = "yourdiscussshortname"
     description = "Julio Cesar Corbaz personal website"
     keywords = "blog,developer,personal"
     info = "Programador Full Stack - Freelancer"
-    avatarURL = "images/avatar.png"
-    gravatar = "julio.corbaz@gmail.com"
+    avatarURL = "../images/jcc.png"
+    #gravatar = "julio.corbaz@gmail.com"
     footerContent = "JCC Producciones"
 
     dateFormat = "January 2, 2006"

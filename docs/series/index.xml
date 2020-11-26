@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Julio Cesar Corbaz</title>
-    <link>goHugo/series/</link>
+    <link>https://corbaz.github.io/HugoPage/series/</link>
     <description>Recent content in Series on Julio Cesar Corbaz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="goHugo/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://corbaz.github.io/HugoPage/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
-      <link>goHugo/series/hugo/</link>
+      <link>https://corbaz.github.io/HugoPage/series/hugo/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>goHugo/series/hugo/</guid>
+      <guid>https://corbaz.github.io/HugoPage/series/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme</title>
-      <link>goHugo/series/theme/</link>
+      <link>https://corbaz.github.io/HugoPage/series/theme/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>goHugo/series/theme/</guid>
+      <guid>https://corbaz.github.io/HugoPage/series/theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Getting Started</title>
-      <link>goHugo/series/getting-started/</link>
+      <link>https://corbaz.github.io/HugoPage/series/getting-started/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>goHugo/series/getting-started/</guid>
+      <guid>https://corbaz.github.io/HugoPage/series/getting-started/</guid>
       <description></description>
     </item>
     
