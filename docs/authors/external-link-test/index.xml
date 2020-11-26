@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>External link test on Julio Cesar Corbaz</title>
-    <link>https://corbaz.github.io/HugoPage/authors/external-link-test/</link>
+    <link>https://corbaz.github.io/goHugo/authors/external-link-test/</link>
     <description>Recent content in External link test on Julio Cesar Corbaz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://corbaz.github.io/HugoPage/authors/external-link-test/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://corbaz.github.io/goHugo/authors/external-link-test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo coder wiki</title>
-      <link>https://corbaz.github.io/HugoPage/posts/hugo-coder-wiki/</link>
+      <link>https://corbaz.github.io/goHugo/posts/hugo-coder-wiki/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://corbaz.github.io/HugoPage/posts/hugo-coder-wiki/</guid>
+      <guid>https://corbaz.github.io/goHugo/posts/hugo-coder-wiki/</guid>
       <description></description>
     </item>
     

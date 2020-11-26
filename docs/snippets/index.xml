@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snippets on Julio Cesar Corbaz</title>
-    <link>https://corbaz.github.io/HugoPage/snippets/</link>
+    <link>https://corbaz.github.io/goHugo/snippets/</link>
     <description>Recent content in Snippets on Julio Cesar Corbaz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://corbaz.github.io/HugoPage/snippets/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://corbaz.github.io/goHugo/snippets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First snippet</title>
-      <link>https://corbaz.github.io/HugoPage/snippets/first/</link>
+      <link>https://corbaz.github.io/goHugo/snippets/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://corbaz.github.io/HugoPage/snippets/first/</guid>
+      <guid>https://corbaz.github.io/goHugo/snippets/first/</guid>
       <description>This content is in snippets/first/index.md
 pwd </description>
     </item>
     
     <item>
       <title>Second snippet</title>
-      <link>https://corbaz.github.io/HugoPage/snippets/second/</link>
+      <link>https://corbaz.github.io/goHugo/snippets/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://corbaz.github.io/HugoPage/snippets/second/</guid>
+      <guid>https://corbaz.github.io/goHugo/snippets/second/</guid>
       <description>This content is in snippets/second/index.md
 ls -la </description>
     </item>
